@@ -6,4 +6,6 @@ The business questions we seek to answer in this project are as follows;\
   * How do I break into the field?
   * What are the placement and salaries of those who attended a coding bootcamp?
   * How well can we predict an individual's salary? What aspects correlate well to salary?
-  * How well can we predict an individual's job satisfaction? What aspects correlate well to job satisfaction?
+  * How well can we predict an individual's job satisfaction? What aspects correlate well to job satisfaction?\
+
+We will be using dataset from stackoverflow developer survey taken in 2017 to answer the questions presented above. 
