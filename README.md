@@ -1,2 +1,2 @@
 # Predicting-Salary
-A project to practice data prediction
+This is a project that demonstrates the cross-industry standard process for data minining
